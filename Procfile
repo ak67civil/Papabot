@@ -1,1 +1,1 @@
-worker: python admin_control_bot.py
+worker: python bot.py
